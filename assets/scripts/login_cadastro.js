@@ -79,9 +79,9 @@ console.log(
         telef.replace( /^(\d{2})(\d{5})(\d{4})/, "($1) $2-$3" )
     );
     
+     
     
-    
-    
+ /*    
 //9.92
 let cota = 9.92;
 let dividendo = 0.08;
@@ -116,3 +116,4 @@ function calculo( m ) {
     
     
 }
+ */
